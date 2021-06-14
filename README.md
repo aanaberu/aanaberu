@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aanaberu
 - 👀 I’m interested in DevSecOps, CloudNative
 - 💞️ I’m looking to collaborate on anything to do with DevSecOps and CloudNative
-- 📫 How to reach me ....
+- 📫 How to reach me .... coming soon
 - ☕ Drinking all of the coffee
 
 <!---
